@@ -1,4 +1,4 @@
-# Arena Beach Tennis
+# Arena Beach Tennis - Sinipiruna
 
 App de gerenciamento de torneios de Beach Tennis: cadastro de atletas, sorteio de
 chaves (duplas fixas ou rotativo), lançamento de resultados, classificação e
